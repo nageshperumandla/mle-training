@@ -1,0 +1,21 @@
+#For Python:
+__pycache__/
+*.pyc
+.env
+
+#Ignore all .log files:
+*.log
+
+#For general OS files:
+.DS_Store
+Thumbs.db
+
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all Python compiled files
+*.pyc
+__pycache__/
+
+env-ml.yml
